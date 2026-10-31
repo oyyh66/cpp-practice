@@ -1,0 +1,15 @@
+# 编译生成的exe程序
+*.exe
+*.o
+*.obj
+
+# Dev-C++ 缓存
+*.layout
+*.history
+
+# VSCode 本地缓存（如果你不想上传 .vscode 就加上这行）
+# .vscode/
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
